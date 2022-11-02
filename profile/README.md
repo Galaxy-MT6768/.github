@@ -5,7 +5,7 @@ Only SM-A315G is actively mantained.
 > ```xml
 > <manifest>
 >   <project path="device/samsung/a31" name="Galaxy-MT6768/android_device_samsung_a31x" remote="github" revision="android-12"/>
->   <project path="device/samsung/a41" name="Galaxy-MT6768/android_device_samsung_a41nsxx" remote="github" revision="android-11"/>
+>   <project path="device/samsung/a41" name="Galaxy-MT6768/android_device_samsung_a41nsxx" remote="github" revision="android-12"/>
 > </manifest>
 > ```
 > And then sync the repos by
