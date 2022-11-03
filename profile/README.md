@@ -1,5 +1,5 @@
 # Galaxy A31 & A41 MT6768
-Only SM-A315G is actively mantained.
+Only Galaxy A31 is actively mantained.
 ### Getting the right roomservice.xml
 > Create an ``.xml`` file inside ``.repo/local_manifests/`` called ``roomservice`` & add this inside it:
 > ```xml
